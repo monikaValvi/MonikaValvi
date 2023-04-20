@@ -82,10 +82,10 @@ Microsoft Office Specialist (MOS) in Excel
 
 😄Personal Info:
 
-I am Monika born snd bought up in gujrat.
-I belongs to Nuclear family where 7 family memebers including me.
+I am Monika born snd bought up in Gujrat.</Br>
+I belongs to Nuclear family where 7 family memebers including me.</br>
 Passionate about creativity, listening to music, reading books and internet surffing.</br>
-My strength forfast learning helps me to understand and respond quickly on it make me more compatible for any role.
+My strength forfast learning helps me to understand and respond quickly on it make me more compatible for any role.</br>
 
 
 ----------------------------------------------------------------------------------
