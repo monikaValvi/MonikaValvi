@@ -1,7 +1,10 @@
 ### Hi there 👋,  This is Monika  </br>
 
 ----------------------------------------------------------------------------------
-  Technical Coordinator
+  Technical Co-ordinator and Web Developer
+  Currently working in Hyperbrands Private Limited.
+
+----------------------------------------------------------------------------------
 
 
 <!--
