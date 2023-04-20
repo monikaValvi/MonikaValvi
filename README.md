@@ -6,8 +6,11 @@
 
 ----------------------------------------------------------------------------------
 <table>
-  <tr><td>HTml</td><td>css</td>
-<!---My Technical Skills:
+  <tr>
+<td>My Technical Skills</td>
+<td>Project Management Skills</td>
+<td>Tools and Technologies</td>
+<!---My Technical Skills
 
 HTML 
 CSS
@@ -15,7 +18,7 @@ JavaScript
 Node JS
 Database Management
 
-Project Management Skills:
+:
 
 Agile Methodology
 Scrum Framework
