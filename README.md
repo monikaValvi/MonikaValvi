@@ -40,14 +40,15 @@
 <td>Risk Management</td>
 <td>MySQL</td>
   </tr>
-</tr> </table>
-----------------------------------------------------------------------------------------------
-</br>
+</tr> </table></br>
+----------------------------------------------------------------------------------
+
 Experience:</Br>
 
 Company: Hypebrand Private Limited</Br>
 Duration: April 2023 - Present</Br>
 Position: Technical Co-ordinator</Br>
+
 Key Responsibilities:</Br>
 
 Developing and maintaining web applications using HTML, CSS, and JavaScript.</Br>
@@ -59,13 +60,15 @@ Created and managed databases using MySQL.</br>
 Worked on Node JS and MongoDB to integrate web applications.</br>
 Collaborated with the team to ensure time.</br>
 
------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 
 
 Education:
 
 Master of Computer Applications, North Maharshtra University, 2020</br>
 Bachelor of Computer Application, SNDT University, 2016</br>
+
+------------------------------------------------------------------------------------
 
 Certifications:
 
