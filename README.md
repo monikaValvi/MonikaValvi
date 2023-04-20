@@ -16,31 +16,31 @@
 <td>Agile Methodology</td>
 <td>Visual Studio Code</td>
   </tr>
-<!---My Technical Skills
-
- 
-CSS
-JavaScript
-Node JS
-Database Management
-
-:
-
-
-Scrum Framework
-Task Planning and Execution
-Resource Allocation
-Risk Management
-
-Tools and Technologies:
-
-
-MySQL
-MongoDB
-Git
-JIRA
-Trello
-Microsoft Excel ---></tr> </table>
+  
+ <tr>
+<td>CSS</td>
+<td>Scrum Framework</td>
+<td>Mictosoft Excel</td>
+  </tr>
+  
+ <tr>
+<td>Java Script</td>
+<td>Task Planning and Execution</td>
+<td>JIRA</td>
+  </tr>
+  
+ <tr>
+<td>NodeJS</td>
+<td>Resource Allocation</td>
+<td>Git</td>
+  </tr>
+  
+ <tr>
+<td>DAtaBase Management</td>
+<td>Risk Management</td>
+<td>MySQL</td>
+  </tr>
+</tr> </table>
 ----------------------------------------------------------------------------------------------
 Experience:</Br>
 
