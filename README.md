@@ -5,7 +5,7 @@
   Currently working in Hyperbrands Private Limited.</br>
 
 ----------------------------------------------------------------------------------
-⚡<table>
+<table>
   <tr>
 <td>My Technical Skills</td>
 <td>Project Management Skills</td>
@@ -77,9 +77,15 @@ Agile Certified Practitioner (ACP)
 Scrum Master Certified (SMC)
 Microsoft Office Specialist (MOS) in Excel
 
-Personal Info:
+--------------------------------------------------------------------------------------
 
-I am Monika
+
+😄Personal Info:
+
+I am Monika born snd bought up in gujrat.
+I belongs to Nuclear family where 7 family memebers including me.
+Passionate about creativity, listening to music, reading books and internet surffing.</br>
+My strength forfast learning helps me to understand and respond quickly on it make me more compatible for any role.
 
 
 ----------------------------------------------------------------------------------
