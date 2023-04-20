@@ -10,9 +10,15 @@
 <td>My Technical Skills</td>
 <td>Project Management Skills</td>
 <td>Tools and Technologies</td>
+  </tr>
+ <tr>
+<td>HTML</td>
+<td>Agile Methodology</td>
+<td>Visual Studio Code</td>
+  </tr>
 <!---My Technical Skills
 
-HTML 
+ 
 CSS
 JavaScript
 Node JS
@@ -20,7 +26,7 @@ Database Management
 
 :
 
-Agile Methodology
+
 Scrum Framework
 Task Planning and Execution
 Resource Allocation
@@ -28,7 +34,7 @@ Risk Management
 
 Tools and Technologies:
 
-Visual Studio Code
+
 MySQL
 MongoDB
 Git
