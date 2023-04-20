@@ -6,7 +6,7 @@
 
 ----------------------------------------------------------------------------------
 <table>
-  <tr><td>HTml</td><td></td>
+  <tr><td>HTml</td><td>css</td>
 <!---My Technical Skills:
 
 HTML 
