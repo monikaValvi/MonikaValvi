@@ -1,11 +1,11 @@
 ### Hi there 👋,  This is Monika  </br>
 
 ----------------------------------------------------------------------------------
-  Technical Co-ordinator and Web Developer  </br>
+ 🌱 Technical Co-ordinator and Web Developer  </br>
   Currently working in Hyperbrands Private Limited.</br>
 
 ----------------------------------------------------------------------------------
-<table>
+⚡<table>
   <tr>
 <td>My Technical Skills</td>
 <td>Project Management Skills</td>
@@ -41,15 +41,16 @@
 <td>MySQL</td>
   </tr>
 </tr> </table></br>
+
 ----------------------------------------------------------------------------------
 
-Experience:</Br>
+ 🔭 Experience:</Br>
 
 Company: Hypebrand Private Limited</Br>
 Duration: April 2023 - Present</Br>
 Position: Technical Co-ordinator</Br>
 
-Key Responsibilities:</Br>
+🤔Key Responsibilities:</Br>
 
 Developing and maintaining web applications using HTML, CSS, and JavaScript.</Br>
 Coordinating with the team to ensure timely delivery of projects.</Br>
@@ -63,14 +64,14 @@ Collaborated with the team to ensure time.</br>
 ------------------------------------------------------------------------------------
 
 
-Education:
+📫Education:
 
 Master of Computer Applications, North Maharshtra University, 2020</br>
 Bachelor of Computer Application, SNDT University, 2016</br>
 
 ------------------------------------------------------------------------------------
 
-Certifications:
+👯Certifications:
 
 Agile Certified Practitioner (ACP)
 Scrum Master Certified (SMC)
@@ -89,7 +90,7 @@ I am Monika
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Hypebrands
+-I’m currently working on ...Hypebrands
 - 🌱 I’m currently learning ...  git
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
