@@ -13,7 +13,8 @@
   </tr>
  <tr>
 <td>HTML</td>
-<td>Agile Methodology</td>
+<td>Agile Meth![images (1)](https://user-images.githubusercontent.com/55373533/234361405-ee973166-d86a-471f-a569-c6eabaf3650b.png)
+odology</td>
 <td>Visual Studio Code</td>
   </tr>
   
