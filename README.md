@@ -12,9 +12,8 @@
 <td>Tools and Technologies</td>
   </tr>
  <tr>
-<td>HTML</td>
-<td>Agile Meth![images (1)](https://user-images.githubusercontent.com/55373533/234361405-ee973166-d86a-471f-a569-c6eabaf3650b.png)
-odology</td>
+  <td>HTML</td><img src="https://assets.stickpng.com/thumbs/5847f5c3cef1014c0b5e489d.png" alt="HTML Status">
+<td>Agile Methodology</td>
 <td>Visual Studio Code</td>
   </tr>
   
