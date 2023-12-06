@@ -1,102 +1,55 @@
-<h1 align="center">Monika Valvi </h1>
-<h3 align="center">Web Developer</h3>
-  
+<img align="left" height="100" src="https://media.licdn.com/dms/image/D4D03AQHn6SyaCszrYQ/profile-displayphoto-shrink_100_100/0/1700848308360?e=1707350400&v=beta&t=cZOnqL35wTdGdRV4JUWgx11012nBCTpRB7Q9VsBRSqY"  />
 
+###
 
-----------------------------------------------------------------------------------
- 🌱 Technical Co-ordinator and Web Developer  </br>
-  Currently working in Hyperbrands Private Limited.</br>
+<h1 align="left">Hey there! 👋🏻<br>I'm Monika. A Developer, designer, and video editor.</h1>
 
-----------------------------------------------------------------------------------
-<table>
-  <tr>
-<td>My Technical Skills</td>
-<td>Project Management Skills</td>
-<td>Tools and Technologies</td>
-  </tr>
- <tr>
-  <td>HTML</td>
-  <td>Agile Methodology</td>
-  <td>Visual Studio Code</td>
-  </tr>
-  
- <tr>
-<td>CSS</td>
-<td>Scrum Framework</td>
-<td>Mictosoft Excel</td>
-  </tr>
-  
- <tr>
-<td>Java Script</td>
-<td>Task Planning and Execution</td>
-<td>JIRA</td>
-  </tr>
-  
- <tr>
-<td>NodeJS</td>
-<td>Resource Allocation</td>
-<td>Git</td>
-  </tr>
-  
- <tr>
-<td>DAtaBase Management</td>
-<td>Risk Management</td>
-<td>MySQL</td>
-  </tr>
-</tr> </table></br>
+###
 
-----------------------------------------------------------------------------------
+<div align="left">
+<a href="https://monikaportfolio.odoo.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=netlify&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="portfolio"  />
+  </a>
+  <a href="https://www.linkedin.com/in/monikavalvi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/monikaValvi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Github&logo=Github&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Github logo"  />
+  </a>
+</div>
 
- 🔭 Experience:</Br>
+###
 
-Company: Hypebrand Private Limited</Br>
-Duration: April 2023 - Present</Br>
-Position: Technical Co-ordinator</Br>
+<br clear="both">
 
-🤔Key Responsibilities:</Br>
+<div align="center">
+  <h3 align="left">Languages and Tools:</h3></br>
+     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="aws" width="50" height="50"/>
+     <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm2PuaSaiKPUY0iHcQ_u3Hx-W9yDschY_1NA-8_64sCMbi8B2f4NvFj8sYi18X-_xZ8G4&usqp=CAU" alt="cloudflare" width="50" height="50"/>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" alt="HTML" width="50" height="50"/>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS" width="50" height="50"/>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/1098/PNG/512/1485481257-48_78629.png" alt="JS" width="50" height="50"/>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" alt="Flutter" width="50" height="50"/>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="React" width="50" height="50"/>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" alt="Angular" width="50" height="50"/>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png" alt="Java" width="50" height="50"/>
+</br><br></br>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" alt="C++" width="50" height="50"/>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" alt="PHP" width="50" height="50"/>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" width="50" height="50"/>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="Python" width="50" height="50"/>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="Bootstrap" width="50" height="50"/>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" alt="MySQL" width="50" height="50"/>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/dart_colour_button_icon_151934.png" alt="dart" width="90" height="50"/>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/3504/PNG/512/canva_icon_220714.png" alt="Canva" width="50" height="50"/>
+     <img align="left" src="https://cdn.icon-icons.com/icons2/195/PNG/256/YouTube_23392.png" alt="Youtube" width="50" height="50"/>
+ </br><br></br>    
+     
 
-Developing and maintaining web applications using HTML, CSS, and JavaScript.</Br>
-Coordinating with the team to ensure timely delivery of projects.</Br>
-Collaborating with the project manager to track project progress and identify potential risks.</Br>
-Utilizing Agile methodology and Scrum framework for project management.</Br>
-Assisted in developing web applications using HTML, CSS, and JavaScript.</br>
-Created and managed databases using MySQL.</br>
-Worked on Node JS and MongoDB to integrate web applications.</br>
-Collaborated with the team to ensure time.</br>
+</br></br>
+  <img src="https://streak-stats.demolab.com?user=hello2himel&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
+</div>
 
-------------------------------------------------------------------------------------
+###
 
-
-📫Education:
-
-Master of Computer Applications, North Maharshtra University, 2020</br>
-Bachelor of Computer Application, SNDT University, 2016</br>
-
-------------------------------------------------------------------------------------
-
-👯Certifications:
-
-Agile Certified Practitioner (ACP)
-Scrum Master Certified (SMC)
-Microsoft Office Specialist (MOS) in Excel
-
---------------------------------------------------------------------------------------
-
-
-
-
-
-<!--
-**monikaValvi/MonikaValvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--I’m currently working on ...Hypebrands
-- 🌱 I’m currently learning ...  git
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="both">
