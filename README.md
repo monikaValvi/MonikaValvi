@@ -1,5 +1,9 @@
-### Hi there 👋,  This is Monika Valvi
-<img src="https://media.licdn.com/dms/image/D4D03AQHn6SyaCszrYQ/profile-displayphoto-shrink_100_100/0/1700848308360?e=1707350400&v=beta&t=cZOnqL35wTdGdRV4JUWgx11012nBCTpRB7Q9VsBRSqY" alt="Girl in a jacket" width="100" height="100">
+<img src="https://media.licdn.com/dms/image/D4D03AQHn6SyaCszrYQ/profile-displayphoto-shrink_100_100/0/1700848308360e=1707350400&v=beta&t=cZOnqL35wTdGdRV4JUWgx11012nBCTpRB7Q9VsBRSqY" alt="Girl in a jacket" width="100" height="100">
+  <td>
+   <h3>Monika Valvi</h3>
+  </td> 
+
+
 ----------------------------------------------------------------------------------
  🌱 Technical Co-ordinator and Web Developer  </br>
   Currently working in Hyperbrands Private Limited.</br>
