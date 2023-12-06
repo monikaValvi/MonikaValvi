@@ -1,7 +1,6 @@
-<img src="https://media.licdn.com/dms/image/D4D03AQHn6SyaCszrYQ/profile-displayphoto-shrink_100_100/0/1700848308360e=1707350400&v=beta&t=cZOnqL35wTdGdRV4JUWgx11012nBCTpRB7Q9VsBRSqY" alt="Girl in a jacket" width="100" height="100">
-  <td>
-   <h3>Monika Valvi</h3>
-  </td> 
+<h1 align="center">Monika Valvi </h1>
+<h3 align="center">Web Developer</h3>
+  
 
 
 ----------------------------------------------------------------------------------
