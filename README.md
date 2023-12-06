@@ -20,7 +20,31 @@
 
 ###
 
+
 <br clear="both">
+
+  <table align="left">
+     <tr> 
+         <td>
+             <h1 align="center" style="background-color:DodgerBlue;"><b>1912</b></h1></h1>
+             <h3 align="center">Total Contirbutors</h3>
+             <h5 align="center">Dec 2023, Present</h5>
+        </td>
+        <td>
+             <h1 align="center"><b>2</b></h1></h1>
+             <h3 align="center">Week Streak</h3>
+             <h5 align="center">Feb 2022 - Dec 2023</h5>
+        </td>
+        <td>
+            <h1 align="center"><b>7</b></h1></h1>
+            <h3 align="center">Longest Week Streak</h3>
+            <h5 align="center">Apr 16- Nov 28</h5>
+        </td>
+     </tr> 
+      
+  </table>
+<br clear="both"></br>
+
 
 <div align="center">
   <h3 align="left">Languages and Tools:</h3></br>
@@ -47,7 +71,6 @@
      
 
 </br></br>
-  <img src="https://streak-stats.demolab.com?user=hello2himel&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
