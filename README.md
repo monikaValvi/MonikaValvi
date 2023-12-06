@@ -42,7 +42,7 @@
      <img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png" alt="MySQL" width="50" height="50"/>
      <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ng_service_dart_icon_130315.png" alt="dart" width="50" height="50"/>
      <img align="left" src="https://cdn.icon-icons.com/icons2/3504/PNG/512/canva_icon_220714.png" alt="Canva" width="50" height="50"/>
-     <img align="left" src="https://cdn.icon-icons.com/icons2/195/PNG/256/YouTube_23392.png" alt="Youtube" width="50" height="50"/>
+     <img align="left" src="https://media.istockphoto.com/id/1299150982/vector/scrum-symbol-icon-isolated.jpg?s=1024x1024&w=is&k=20&c=j2WoYWPVqaRkci7e8qvtoCPMZkgix6HLMkHukRvQwPw=" alt="Scrum" width="50" height="50"/>
  </br><br></br>    
      
 
