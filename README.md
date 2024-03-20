@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Hey there! 👋🏻<br>I'm Monika. A Developer, designer, and video editor.</h1>
+<h1 align="left">Hey there! 👋🏻<br>I'm Monika. A Developer, designer, and QA Tester</h1>
 
 ###
 
